@@ -4,7 +4,7 @@ Alethic Insight（CUMT）招新 **机试题库** 仓库。
 
 ## 定位与限期公开政策
 
-经组织者本次明确授权，本仓库与[会话展示仓](https://github.com/CUMT-Alethic-Insight-Lab/2026autumn-recruitment-sessions-publication)计划于 **2026 年 11 月 8 日公开，展示 7 天，截止 2026 年 11 月 15 日 03:10（北京时间，UTC+8）**。本次授权取代本 README 原先「仅限私有、严禁公开」的政策。
+经组织者本次明确授权，本仓库与[会话展示仓](https://github.com/CUMT-Alethic-Insight-Lab/2026autumn-recruitment-sessions-publication)计划于 **2026 年 11 月 8 日公开，展示 7 天，截止 2026 年 11 月 15 日 03:15（北京时间，UTC+8）**。本次授权取代本 README 原先「仅限私有、严禁公开」的政策。
 
 到期由组织者将仓库转为私有、结束公开展示；这是需要组织者执行的安排，**不承诺已设置或会自动完成切换**。公开期间已被下载或复制的材料无法通过转私有收回。限期结束不撤销使用者遵守许可条件时已获得的 CC BY-NC-SA 4.0 授权，详见 [LICENSE.md](LICENSE.md)。
 
